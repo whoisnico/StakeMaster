@@ -1,0 +1,2 @@
+# StakeMaster
+ Discord Casino Bot
